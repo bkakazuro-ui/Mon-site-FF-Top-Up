@@ -1,0 +1,1714 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon premier site</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background: #111;
+            color: white;<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>FF TOP UP</title>
+
+    <style><!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>FF TOP UP</title>
+
+<style><!DOCTYPE html>
+<html lang="fr">
+<head><!-- TOP UP PAR UID -->
+
+<div class="section">
+<!-- TOP UP PAR UID -->
+
+<div class="section">
+
+    <div class="section-title">
+        💎 TOP UP PAR UID
+    </div>
+
+    <div class="card">
+        <h3>💎 110 Diamants</h3>
+        <p class="diamonds">110 💎</p>
+        <p class="price">4 500 Ar</p>
+        <button onclick="commander('110 Diamants', '110 💎', '4 500 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>💎 231 Diamants</h3>
+        <p class="diamonds">231 💎</p>
+        <p class="price">9 100 Ar</p>
+        <button onclick="commander('231 Diamants', '231 💎', '9 100 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>💎 341 Diamants</h3>
+        <p class="diamonds">341 💎</p>
+        <p class="price">13 700 Ar</p>
+        <button onclick="commander('341 Diamants', '341 💎', '13 700 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>💎 462 Diamants</h3>
+        <p class="diamonds">462 💎</p>
+        <p class="price">18 200 Ar</p>
+        <button onclick="commander('462 Diamants', '462 💎', '18 200 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>💎 583 Diamants</h3>
+        <p class="diamonds">583 💎</p>
+        <p class="price">22 800 Ar</p>
+        <button onclick="commander('583 Diamants', '583 💎', '22 800 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>💎 1 188 Diamants</h3>
+        <p class="diamonds">1 188 💎</p>
+        <p class="price">45 500 Ar</p>
+        <button onclick="commander('1188 Diamants', '1188 💎', '45 500 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>💎 2 420 Diamants</h3>
+        <p class="diamonds">2 420 💎</p>
+        <p class="price">91 000 Ar</p>
+        <button onclick="commander('2420 Diamants', '2420 💎', '91 000 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>💎 2 651 Diamants</h3>
+        <p class="diamonds">2 651 💎</p>
+        <p class="price">100 000 Ar</p>
+        <button onclick="commander('2651 Diamants', '2651 💎', '100 000 Ar')">
+            Commander
+        </button>
+    </div>
+
+</div>
+
+
+<!-- LEVEL UP -->
+
+<div class="section">
+
+    <div class="section-title">
+        ⭐ LEVEL UP
+    </div>
+
+    <div class="card">
+        <h3>⭐ Level Up 0,29</h3>
+        <p class="price">2 700 Ar</p>
+        <button onclick="commander('Level Up 0,29', '0,29', '2 700 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>⭐ Level Up 0,50</h3>
+        <p class="price">3 600 Ar</p>
+        <button onclick="commander('Level Up 0,50', '0,50', '3 600 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>⭐ Level Up 0,79</h3>
+        <p class="price">5 400 Ar</p>
+        <button onclick="commander('Level Up 0,79', '0,79', '5 400 Ar')">
+            Commander
+        </button>
+    </div>
+
+</div>
+
+
+<!-- ABONNEMENTS -->
+
+<div class="section">
+
+    <div class="section-title">
+        🎫 ABONNEMENTS
+    </div>
+
+    <div class="card">
+        <h3>🎫 Weekly</h3>
+        <p class="price">10 000 Ar</p>
+        <button onclick="commander('Weekly', 'Abonnement', '10 000 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>🎫 Monthly</h3>
+        <p class="price">47 500 Ar</p>
+        <button onclick="commander('Monthly', 'Abonnement', '47 500 Ar')">
+            Commander
+        </button>
+    </div>
+
+</div>
+
+
+<!-- BOOYAH PASS -->
+
+<div class="section">
+
+    <div class="section-title">
+        🎟️ BOOYAH PASS
+    </div>
+
+    <div class="card">
+        <h3>🎟️ Gift Booyah Pass</h3>
+        <p class="price">7 000 Ar</p>
+        <button onclick="commander('Booyah Pass', 'BP', '7 000 Ar')">
+            Commander
+        </button>
+    </div>
+
+</div>
+
+
+<!-- LARGAGE -->
+
+<div class="section">
+
+    <div class="section-title">
+        🎁 LARGAGE
+    </div>
+
+    <div class="card">
+        <h3>🎁 Largage 0,99 $</h3>
+        <p class="price">5 000 Ar</p>
+        <button onclick="commander('Largage 0,99$', 'Largage', '5 000 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>🎁 Largage 1,99 $</h3>
+        <p class="price">9 500 Ar</p>
+        <button onclick="commander('Largage 1,99$', 'Largage', '9 500 Ar')">
+            Commander
+        </button>
+    </div>
+
+</div>
+
+
+<!-- WEEKLY / MONTHLY -->
+
+<div class="section">
+
+    <div class="section-title">
+        📅 OFFRES
+    </div>
+
+    <div class="card">
+        <h3>📅 Weekly Lite</h3>
+        <p class="price">3 400 Ar</p>
+        <button onclick="commander('Weekly Lite', 'Abonnement', '3 400 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>📅 Weekly</h3>
+        <p class="price">8 500 Ar</p>
+        <button onclick="commander('Weekly', 'Abonnement', '8 500 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>📅 Monthly</h3>
+        <p class="price">37 500 Ar</p>
+        <button onclick="commander('Monthly', 'Abonnement', '37 500 Ar')">
+            Commander
+        </button>
+    </div>
+
+</div>
+    <div class="section-title">
+        💎 TOP UP PAR UID
+    </div>
+
+    <div class="card">
+        <h3>💎 110 Diamants</h3>
+        <p class="diamonds">110 💎</p>
+        <p class="price">4 500 Ar</p>
+        <button onclick="commander('110 Diamants', '110 💎', '4 500 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>💎 231 Diamants</h3>
+        <p class="diamonds">231 💎</p>
+        <p class="price">9 100 Ar</p>
+        <button onclick="commander('231 Diamants', '231 💎', '9 100 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>💎 341 Diamants</h3>
+        <p class="diamonds">341 💎</p>
+        <p class="price">13 700 Ar</p>
+        <button onclick="commander('341 Diamants', '341 💎', '13 700 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>💎 462 Diamants</h3>
+        <p class="diamonds">462 💎</p>
+        <p class="price">18 200 Ar</p>
+        <button onclick="commander('462 Diamants', '462 💎', '18 200 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>💎 583 Diamants</h3>
+        <p class="diamonds">583 💎</p>
+        <p class="price">22 800 Ar</p>
+        <button onclick="commander('583 Diamants', '583 💎', '22 800 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>💎 1 188 Diamants</h3>
+        <p class="diamonds">1 188 💎</p>
+        <p class="price">45 500 Ar</p>
+        <button onclick="commander('1188 Diamants', '1188 💎', '45 500 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>💎 2 420 Diamants</h3>
+        <p class="diamonds">2 420 💎</p>
+        <p class="price">91 000 Ar</p>
+        <button onclick="commander('2420 Diamants', '2420 💎', '91 000 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>💎 2 651 Diamants</h3>
+        <p class="diamonds">2 651 💎</p>
+        <p class="price">100 000 Ar</p>
+        <button onclick="commander('2651 Diamants', '2651 💎', '100 000 Ar')">
+            Commander
+        </button>
+    </div>
+
+</div>
+
+
+<!-- LEVEL UP -->
+
+<div class="section">
+
+    <div class="section-title">
+        ⭐ LEVEL UP
+    </div>
+
+    <div class="card">
+        <h3>⭐ Level Up 0,29</h3>
+        <p class="price">2 700 Ar</p>
+        <button onclick="commander('Level Up 0,29', '0,29', '2 700 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>⭐ Level Up 0,50</h3>
+        <p class="price">3 600 Ar</p>
+        <button onclick="commander('Level Up 0,50', '0,50', '3 600 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>⭐ Level Up 0,79</h3>
+        <p class="price">5 400 Ar</p>
+        <button onclick="commander('Level Up 0,79', '0,79', '5 400 Ar')">
+            Commander
+        </button>
+    </div>
+
+</div>
+
+
+<!-- ABONNEMENTS -->
+
+<div class="section">
+
+    <div class="section-title">
+        🎫 ABONNEMENTS
+    </div>
+
+    <div class="card">
+        <h3>🎫 Weekly</h3>
+        <p class="price">10 000 Ar</p>
+        <button onclick="commander('Weekly', 'Abonnement', '10 000 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>🎫 Monthly</h3>
+        <p class="price">47 500 Ar</p>
+        <button onclick="commander('Monthly', 'Abonnement', '47 500 Ar')">
+            Commander
+        </button>
+    </div>
+
+</div>
+
+
+<!-- BOOYAH PASS -->
+
+<div class="section">
+
+    <div class="section-title">
+        🎟️ BOOYAH PASS
+    </div>
+
+    <div class="card">
+        <h3>🎟️ Gift Booyah Pass</h3>
+        <p class="price">7 000 Ar</p>
+        <button onclick="commander('Booyah Pass', 'BP', '7 000 Ar')">
+            Commander
+        </button>
+    </div>
+
+</div>
+
+
+<!-- LARGAGE -->
+
+<div class="section">
+
+    <div class="section-title">
+        🎁 LARGAGE
+    </div>
+
+    <div class="card">
+        <h3>🎁 Largage 0,99 $</h3>
+        <p class="price">5 000 Ar</p>
+        <button onclick="commander('Largage 0,99$', 'Largage', '5 000 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>🎁 Largage 1,99 $</h3>
+        <p class="price">9 500 Ar</p>
+        <button onclick="commander('Largage 1,99$', 'Largage', '9 500 Ar')">
+            Commander
+        </button>
+    </div>
+
+</div>
+
+
+<!-- WEEKLY / MONTHLY -->
+
+<div class="section">
+
+    <div class="section-title">
+        📅 OFFRES
+    </div>
+
+    <div class="card">
+        <h3>📅 Weekly Lite</h3>
+        <p class="price">3 400 Ar</p>
+        <button onclick="commander('Weekly Lite', 'Abonnement', '3 400 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>📅 Weekly</h3>
+        <p class="price">8 500 Ar</p>
+        <button onclick="commander('Weekly', 'Abonnement', '8 500 Ar')">
+            Commander
+        </button>
+    </div>
+
+    <div class="card">
+        <h3>📅 Monthly</h3>
+        <p class="price">37 500 Ar</p>
+        <button onclick="commander('Monthly', 'Abonnement', '37 500 Ar')">
+            Commander
+        </button>
+    </div>
+
+</div>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>FF TOP UP</title>
+
+<style>
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0b0b0f;
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 35px 15px;
+    background: #15151c;
+}
+
+header h1 {
+    font-size: 38px;
+    margin: 0;
+}
+
+header p {
+    color: #aaa;
+}
+
+.container {
+    max-width: 550px;
+    margin: auto;
+    padding: 20px 15px;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+.section-title {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.card {
+    background: #191922;
+    border-radius: 15px;
+    padding: 18px;
+    margin: 12px 0;
+    border: 1px solid #292936;
+}
+
+.card h3 {
+    margin: 0 0 10px;
+}
+
+.diamonds {
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.price {
+    font-size: 18px;
+    color: #ddd;
+}
+
+button {
+    width: 100%;
+    padding: 14px;
+    border: none;
+    border-radius: 10px;
+    background: white;
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+button:active {
+    transform: scale(0.98);
+}
+
+footer {
+    text-align: center;
+    padding: 25px;
+    color: #777;
+}
+
+</style>
+</head>
+
+
+<body>
+
+<header>
+
+    <h1>🔥 FF TOP UP 🔥</h1>
+
+    <p>
+        Diamants • Level Up • BP • Abonnements
+    </p>
+
+</header>
+
+
+<div class="container">
+
+
+<!-- TOP UP -->
+
+<div class="section">
+
+    <div class="section-title">
+        💎 TOP UP
+    </div>
+
+
+    <div class="card">
+
+        <h3>💎 Top Up 100+10</h3>
+
+        <p class="diamonds">
+            100 💎
+        </p>
+
+        <p class="price">
+            Prix : 4500 Ar
+        </p>
+
+        <button onclick="commander('Top Up 100', '100 💎', '1 000 Ar')">
+            Commander
+        </button>
+
+    </div>
+
+
+    <div class="card">
+
+        <h3>💎 Top Up 310</h3>
+
+        <p class="diamonds">
+            310 💎
+        </p>
+
+        <p class="price">
+            Prix : 3 000 Ar
+        </<!-- TOP UP -->
+
+<div class="section">
+
+    <div class="section-title">
+        💎 TOP UP
+    </div>
+
+    <div class="card">
+        <h3>💎 100 + 10</h3>
+        <p class="diamonds">110 💎 au total</p>
+        <p class="price">Prix : 4 500 Ar</p>
+
+        <button onclick="commander('100 + 10', '110 💎', '4 500 Ar')">
+            Commander
+        </button>
+    </div>
+
+
+    <div class="card">
+        <h3>💎 200 + 20</h3>
+        <p class="diamonds">220 💎 au total</p>
+        <p class="price">Prix : 9 000 Ar</p>
+
+        <button onclick="commander('200 + 20', '220 💎', '9 000 Ar')">
+            Commander
+        </button>
+    </div>
+
+
+    <div class="card">
+        <h3>💎 500 + 50</h3>
+        <p class="diamonds">550 💎 au total</p>
+        <p class="price">Prix : 22 500 Ar</p>
+
+        <button onclick="commander('500 + 50', '550 💎', '22 500 Ar')">
+            Commander
+        </button>
+    </div>
+
+
+    <div class="card">
+        <h3>💎 1 000 + 100</h3>
+        <p class="diamonds">1 100 💎 au total</p>
+        <p class="price">Prix : 45 000 Ar</p>
+
+        <button onclick="commander('1 000 + 100', '1 100 💎', '45 000 Ar')">
+            Commander
+        </button>
+    </div>
+
+
+    <div class="card">
+        <h3>💎 2 000 + 200</h3>
+        <p class="diamonds">2 200 💎 au total</p>
+        <p class="price">Prix : 90 000 Ar</p>
+
+        <button onclick="commander('2 000 + 200', '2 200 💎', '90 000 Ar')">
+            Commander
+        </button>
+    </div>
+
+</div>p>
+
+        <button onclick="commander('Top Up 310', '310 💎', '3 000 Ar')">
+            Commander
+        </button>
+
+    </div>
+
+
+    <div class="card">
+
+        <h3>💎 Top Up 520</h3>
+
+        <p class="diamonds">
+            520 💎
+        </p>
+
+        <p class="price">
+            Prix : 5 000 Ar
+        </p>
+
+        <button onclick="commander('Top Up 520', '520 💎', '5 000 Ar')">
+            Commander
+        </button>
+
+    </div>
+
+</div>
+
+
+
+<!-- LEVEL UP -->
+
+<div class="section">
+
+    <div class="section-title">
+        ⭐ LEVEL UP
+    </div>
+
+
+    <div class="card">
+
+        <h3>⭐ Level Up 6</h3>
+
+        <p class="diamonds">
+            6 💎
+        </p>
+
+        <p class="price">
+            Prix : 100 Ar
+        </p>
+
+        <button onclick="commander('Level Up 6', '6 💎', '100 Ar')">
+            Commander
+        </button>
+
+    </div>
+
+
+    <div class="card">
+
+        <h3>⭐ Level Up 10</h3>
+
+        <p class="diamonds">
+            10 💎
+        </p>
+
+        <p class="price">
+            Prix : 200 Ar
+        </p>
+
+        <button onclick="commander('Level Up 10', '10 💎', '200 Ar')">
+            Commander
+        </button>
+
+    </div>
+
+
+    <div class="card">
+
+        <h3>⭐ Level Up 20</h3>
+
+        <p class="diamonds">
+            20 💎
+        </p>
+
+        <p class="price">
+            Prix : 400 Ar
+        </p>
+
+        <button onclick="commander('Level Up 20', '20 💎', '400 Ar')">
+            Commander
+        </button>
+
+    </div>
+
+
+    <div class="card">
+
+        <h3>⭐ Level Up 25</h3>
+
+        <p class="diamonds">
+            25 💎
+        </p>
+
+        <p class="price">
+            Prix : 500 Ar
+        </p>
+
+        <button onclick="commander('Level Up 25', '25 💎', '500 Ar')">
+            Commander
+        </button>
+
+    </div>
+
+
+    <div class="card">
+
+        <h3>⭐ Level Up 30</h3>
+
+        <p class="diamonds">
+            30 💎
+        </p>
+
+        <p class="price">
+            Prix : 600 Ar
+        </p>
+
+        <button onclick="commander('Level Up 30', '30 💎', '600 Ar')">
+            Commander
+        </button>
+
+    </div>
+
+</div>
+
+
+
+<!-- LARGAGE -->
+
+<div class="section">
+
+    <div class="section-title">
+        🎁 LARGAGE
+    </div>
+
+
+    <div class="card">
+
+        <h3>🎁 Largage 1</h3>
+
+        <p class="diamonds">
+            50 💎
+        </p>
+
+        <p class="price">
+            Prix : 500 Ar
+        </p>
+
+        <button onclick="commander('Largage 1', '50 💎', '500 Ar')">
+            Commander
+        </button>
+
+    </div>
+
+
+    <div class="card">
+
+        <h3>🎁 Largage 2</h3>
+
+        <p class="diamonds">
+            100 💎
+        </p>
+
+        <p class="price">
+            Prix : 1 000 Ar
+        </p>
+
+        <button onclick="commander('Largage 2', '100 💎', '1 000 Ar')">
+            Commander
+        </button>
+
+    </div>
+
+</div>
+
+
+
+<!-- ABONNEMENT -->
+
+<div class="section">
+
+    <div class="section-title">
+        🎫 ABONNEMENT
+    </div>
+
+
+    <div class="card">
+
+        <h3>🎫 Abonnement</h3>
+
+        <p class="diamonds">
+            💎 Diamants selon l'offre
+        </p>
+
+        <p class="price">
+            Prix : À définir
+        </p>
+
+        <button onclick="commander('Abonnement', 'Offre abonnement', 'Prix à définir')">
+            Commander
+        </button>
+
+    </div>
+
+</div>
+
+
+
+<!-- BP -->
+
+<div class="section">
+
+    <div class="section-title">
+        🎟️ BOOYAH PASS
+    </div>
+
+
+    <div class="card">
+
+        <h3>🎟️ BP</h3>
+
+        <p class="diamonds">
+            🎟️ Booyah Pass
+        </p>
+
+        <p class="price">
+            Prix : À définir
+        </p>
+
+        <button onclick="commander('Booyah Pass', 'BP', 'Prix à définir')">
+            Commander
+        </button>
+
+    </div>
+
+</div>
+
+
+</div>
+
+
+<footer>
+
+    <p>🔥 FF TOP UP</p>
+
+    <p>Site de démonstration</p>
+
+</footer>
+
+
+
+<script>
+
+function commander(produit, diamants, prix) {
+
+    alert(
+        "🛒 COMMANDE\n\n" +
+        "Produit : " + produit + "\n" +
+        "Diamants : " + diamants + "\n" +
+        "Prix : " + prix
+    );
+
+}
+
+</script>
+
+
+</body>
+</html>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0b0b0b;
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 30px 15px;
+    background: #151515;
+}
+
+header h1 {
+    font-size: 38px;
+    margin: 0;
+}
+
+header p {
+    color: #aaa;
+}
+
+.container {
+    max-width: 520px;
+    margin: auto;
+    padding: 20px 15px;
+}
+
+.section {
+    background: #181818;
+    padding: 18px;
+    margin-bottom: 18px;
+    border-radius: 15px;
+}
+
+.section h2 {
+    margin-top: 0;
+}
+
+.item {
+    background: #252525;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 12px;
+}
+
+.item h3 {
+    margin: 0 0 8px;
+}
+
+.price {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+button {
+    width: 100%;
+    padding: 13px;
+    margin-top: 8px;
+    border: none;
+    border-radius: 9px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 13px;
+    margin: 8px 0 15px;
+    border: none;
+    border-radius: 9px;
+    background: #292929;
+    color: white;
+    font-size: 16px;
+}
+
+.commander {
+    background: white;
+    color: black;
+}
+
+footer {
+    text-align: center;
+    padding: 25px;
+    color: #777;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>🔥 FF TOP UP 🔥</h1>
+    <p>Free Fire Shop</p>
+</header>
+
+<div class="container">
+
+<!-- TOP UP -->
+<div class="section">
+    <h2>💎 TOP UP</h2>
+
+    <div class="item">
+        <h3>💎 100 Diamants</h3>
+        <p class="price">Prix à définir</p>
+    </div>
+
+    <div class="item">
+        <h3>💎 310 Diamants</h3>
+        <p class="price">Prix à définir</p>
+    </div>
+
+    <div class="item">
+        <h3>💎 520 Diamants</h3>
+        <p class="price">Prix à définir</p>
+    </div>
+
+    <div class="item">
+        <h3>💎 1060 Diamants</h3>
+        <p class="price">Prix à définir</p>
+    </div>
+</div>
+
+
+<!-- LEVEL UP -->
+<div class="section">
+    <h2>⭐ LEVEL UP</h2>
+
+    <div class="item">
+        <h3>⭐ Level Up</h3>
+        <p>Service Level Up Free Fire</p>
+        <p class="price">Prix à définir</p>
+    </div>
+</div>
+
+
+<!-- 6 -->
+<div class="section">
+    <h2>🔥 OFFRE 6</h2>
+
+    <div class="item">
+        <h3>🔥 Pack 6</h3>
+        <p class="price">Prix à définir</p>
+    </div>
+</div>
+
+
+<!-- 10 -->
+<div class="section">
+    <h2>🔥 OFFRE 10</h2>
+
+    <div class="item">
+        <h3>🔥 Pack 10</h3>
+        <p class="price">Prix à définir</p>
+    </div>
+</div>
+
+
+<!-- 20 -->
+<div class="section">
+    <h2>🔥 OFFRE 20</h2>
+
+    <div class="item">
+        <h3>🔥 Pack 20</h3>
+        <p class="price">Prix à définir</p>
+    </div>
+</div>
+
+
+<!-- 25 -->
+<div class="section">
+    <h2>🔥 OFFRE 25</h2>
+
+    <div class="item">
+        <h3>🔥 Pack 25</h3>
+        <p class="price">Prix à définir</p>
+    </div>
+</div>
+
+
+<!-- 30 -->
+<div class="section">
+    <h2>🔥 OFFRE 30</h2>
+
+    <div class="item">
+        <h3>🔥 Pack 30</h3>
+        <p class="price">Prix à définir</p>
+    </div>
+</div>
+
+
+<!-- LARGAGE -->
+<div class="section">
+    <h2>🎁 LARGAGE</h2>
+
+    <div class="item">
+        <h3>🎁 Largage Free Fire</h3>
+        <p>Choisis ton largage</p>
+        <p class="price">Prix à définir</p>
+    </div>
+</div>
+
+
+<!-- ABONNEMENT BP -->
+<div class="section">
+    <h2>🎫 ABONNEMENT BP</h2>
+
+    <div class="item">
+        <h3>🎫 Abonnement BP</h3>
+        <p>Abonnement Battle Pass</p>
+        <p class="price">Prix à définir</p>
+    </div>
+</div>
+
+
+<!-- COMMANDE -->
+<div class="section">
+
+    <h2>🛒 COMMANDER</h2>
+
+    <label>UID Free Fire</label>
+
+    <input
+        type="number"
+        id="uid"
+        placeholder="Entre ton UID"
+    >
+
+    <label>Choisis ton service</label>
+
+    <select id="service">
+
+        <option>💎 Top Up</option>
+        <option>⭐ Level Up</option>
+        <option>🔥 Offre 6</option>
+        <option>🔥 Offre 10</option>
+        <option>🔥 Offre 20</option>
+        <option>🔥 Offre 25</option>
+        <option>🔥 Offre 30</option>
+        <option>🎁 Largage</option>
+        <option>🎫 Abonnement BP</option>
+
+    </select>
+
+    <label>Moyen de paiement</label>
+
+    <select id="payment">
+
+        <option>Orange Money</option>
+        <option>MVola</option>
+        <option>Autre</option>
+
+    </select>
+
+    <button
+        class="commander"
+        onclick="commander()">
+        🛒 COMMANDER
+    </button>
+
+    <p id="result"></p>
+
+</div>
+
+</div>
+
+<footer>
+    🔥 FF TOP UP
+    <br>
+    Boutique Free Fire
+</footer>
+
+
+<script>
+
+function commander() {
+
+    let uid = document.getElementById("uid").value;
+    let service = document.getElementById("service").value;
+    let payment = document.getElementById("payment").value;
+    let result = document.getElementById("result");
+
+    if (uid === "") {
+
+        result.innerHTML =
+        "⚠️ Entre ton UID Free Fire.";
+
+        return;
+    }
+
+    result.innerHTML =
+    "✅ Commande préparée !<br><br>" +
+    "🎮 UID : " + uid + "<br>" +
+    "📦 Service : " + service + "<br>" +
+    "💳 Paiement : " + payment;
+
+}
+
+</script>
+
+</body>
+</html>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #111;
+            color: white;
+            text-align: center;
+        }
+
+        header {
+            padding: 30px 15px;
+            background: #1b1b1b;
+        }
+
+        h1 {
+            font-size: 38px;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            font-size: 18px;
+            color: #ccc;
+        }
+
+        .container {
+            padding: 25px 15px;
+        }
+
+        .card {
+            background: #222;
+            margin: 15px auto;
+            padding: 20px;
+            border-radius: 15px;
+            max-width: 350px;
+        }
+
+        .card h2 {
+            margin-top: 0;
+        }
+
+        .price {
+            font-size: 22px;
+            margin: 15px;
+        }
+
+        button {
+            padding: 13px 25px;
+            border: none;
+            border-radius: 10px;
+            font-size: 17px;
+            cursor: pointer;
+        }
+
+        footer {
+            margin-top: 30px;
+            padding: 20px;
+            background: #1b1b1b;
+            color: #aaa;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>🔥 FF TOP UP 🔥</h1>
+        <p class="subtitle">
+            Recharge Free Fire facilement
+        </p>
+    </header<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>FF TOP UP</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #0d0d0d;
+            color: white;
+        }
+
+        header {
+            text-align: center;
+            padding: 35px 15px;
+            background: #171717;
+        }
+
+        header h1 {
+            font-size: 38px;
+            margin: 0 0 10px;
+        }
+
+        header p {
+            color: #bbb;
+            font-size: 17px;
+        }
+
+        .container {
+            max-width: 500px;
+            margin: auto;
+            padding: 20px 15px;
+        }
+
+        .section {
+            background: #181818;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 16px;
+        }
+
+        .section h2 {
+            margin-top: 0;
+        }
+
+        .product {
+            background: #242424;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 12px;
+        }
+
+        .product h3 {
+            margin: 0 0 8px;
+        }
+
+        .price {
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        input,
+        select {
+            width: 100%;
+            padding: 14px;
+            margin-top: 8px;
+            margin-bottom: 15px;
+            border: none;
+            border-radius: 10px;
+            font-size: 16px;
+            background: #292929;
+            color: white;
+        }
+
+        button {
+            width: 100%;
+            padding: 15px;
+            border: none;
+            border-radius: 10px;
+            font-size: 17px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .order-button {
+            background: #ffffff;
+            color: #111;
+        }
+
+        .payment {
+            padding: 13px;
+            background: #242424;
+            border-radius: 10px;
+            margin: 8px 0;
+        }
+
+        .result {
+            display: none;
+            background: #173d22;
+            padding: 15px;
+            border-radius: 12px;
+            margin-top: 15px;
+            text-align: center;
+        }
+
+        footer {
+            text-align: center;
+            padding: 25px;
+            color: #888;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>🔥 FF TOP UP 🔥</h1>
+    <p>Recharge Free Fire facilement</p>
+</header>
+
+
+<div class="container">
+
+    <!-- DIAMANTS -->
+    <div class="section">
+        <h2>💎 Recharge Diamants</h2>
+
+        <div class="product">
+            <h3>💎 100 Diamants</h3>
+            <p class="price">1 000 Ar</p>
+        </div>
+
+        <div class="product">
+            <h3>💎 310 Diamants</h3>
+            <p class="price">3 000 Ar</p>
+        </div>
+
+        <div class="product">
+            <h3>💎 520 Diamants</h3>
+            <p class="price">5 000 Ar</p>
+        </div>
+
+        <div class="product">
+            <h3>💎 1060 Diamants</h3>
+            <p class="price">10 000 Ar</p>
+        </div>
+    </div>
+
+
+    <!-- LEVEL UP -->
+    <div class="section">
+        <h2>⭐ Level Up</h2>
+
+        <div class="product">
+            <h3>⭐ Level Up</h3>
+            <p>Service de progression Free Fire</p>
+            <p class="price">Prix à définir</p>
+        </div>
+    </div>
+
+
+    <!-- INFORMATIONS -->
+    <div class="section">
+        <h2>🎮 Informations</h2>
+
+        <label>Ton UID Free Fire</label>
+        <input
+            type="number"
+            id="uid"
+            placeholder="Exemple : 123456789"
+        >
+
+        <label>Choisis ton service</label>
+
+        <select id="service">
+
+            <option value="100 Diamants">
+                💎 100 Diamants
+            </option>
+
+            <option value="310 Diamants">
+                💎 310 Diamants
+            </option>
+
+            <option value="520 Diamants">
+                💎 520 Diamants
+            </option>
+
+            <option value="1060 Diamants">
+                💎 1060 Diamants
+            </option>
+
+            <option value="Level Up">
+                ⭐ Level Up
+            </option>
+
+        </select>
+    </div>
+
+
+    <!-- PAIEMENT -->
+    <div class="section">
+        <h2>💳 Moyen de paiement</h2>
+
+        <div class="payment">
+            📱 Orange Money
+        </div>
+
+        <div class="payment">
+            📱 MVola
+        </div>
+
+        <div class="payment">
+            📱 Autre moyen
+        </div>
+
+        <select id="payment">
+
+            <option value="Orange Money">
+                📱 Orange Money
+            </option>
+
+            <option value="MVola">
+                📱 MVola
+            </option>
+
+            <option value="Autre">
+                📱 Autre moyen
+            </option>
+
+        </select>
+    </div>
+
+
+    <!-- COMMANDE -->
+    <div class="section">
+
+        <h2>🛒 Commander</h2>
+
+        <button
+            class="order-button"
+            onclick="commander()"
+        >
+            Commander
+        </button>
+
+        <div id="result" class="result"></div>
+
+    </div>
+
+</div>
+
+
+<footer>
+    <p>🔥 FF TOP UP</p>
+    <p>Site de démonstration</p>
+</footer>
+
+
+<script>
+
+function commander() {
+
+    let uid = document.getElementById("uid").value;
+
+    let service = document.getElementById("service").value;
+
+    let payment = document.getElementById("payment").value;
+
+    let result = document.getElementById("result");
+
+
+    if (uid === "") {
+
+        result.style.display = "block";
+
+        result.innerHTML =
+            "⚠️ Entre ton UID Free Fire.";
+
+        return;
+    }
+
+
+    result.style.display = "block";
+
+    result.innerHTML =
+        "✅ Commande préparée !<br><br>" +
+        "🎮 UID : " + uid + "<br>" +
+        "📦 Service : " + service + "<br>" +
+        "💳 Paiement : " + payment;
+
+}
+
+</script>
+
+</body>
+</html>>
+
+    <div class="container">
+
+        <div class="card">
+            <h2>💎 100 Diamants</h2>
+            <p class="price">Prix : 1 000 Ar</p>
+            <button>Choisir</button>
+        </div>
+
+        <div class="card">
+            <h2>💎 310 Diamants</h2>
+            <p class="price">Prix : 3 000 Ar</p>
+            <button>Choisir</button>
+        </div>
+
+        <div class="card">
+            <h2>💎 520 Diamants</h2>
+            <p class="price">Prix : 5 000 Ar</p>
+            <button>Choisir</button>
+        </div>
+
+        <div class="card">
+            <h2>💎 1060 Diamants</h2>
+            <p class="price">Prix : 10 000 Ar</p>
+            <button>Choisir</button>
+        </div>
+
+    </div>
+
+    <footer>
+        <p>FF TOP UP — Site de démonstration</p>
+    </footer>
+
+</body>
+</html>
+            padding: 50px 20px;
+        }
+
+        h1 {
+            font-size: 40px;
+        }
+
+        p {
+            font-size: 20px;
+        }
+
+        button {
+            padding: 15px 25px;
+            border: none;
+            border-radius: 10px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Bienvenue sur mon site 🔥</h1>
+
+    <p>Mon premier site créé avec mon téléphone.</p>
+
+    <button>Bienvenue</button>
+
+</body>
+</html>
